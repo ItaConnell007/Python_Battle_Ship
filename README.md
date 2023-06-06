@@ -1,7 +1,7 @@
-# Python Battle Ship ⚓️
-Code Institute Project 3 
+# :ship: Python Battle Ship ⚓️
+Code Institute Project 3 :boom:
 
-#### Preview in Terminal
+#### Preview in Terminal 
 <img width="407" alt="image" src="https://github.com/ItaConnell007/Python_Battle_Ship/assets/104692075/b695d3c8-d778-4ef8-a294-ad67d0f4d4fc">
 
 
