@@ -1,4 +1,4 @@
-# :ship: Python Battle Ship ⚓️
+# &#x1F40D; Python Battle Ship :ship: 
 Code Institute Project 3 :boom:
 
 #### Preview in Terminal 
